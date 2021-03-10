@@ -66,3 +66,12 @@ body{
 	font-family: Forte;
 	font-size: 35px;
 }
+.act3{
+	position: absolute;
+	background-image: url(mora.png);
+	border: #9A2EFE 3px double;
+	top: 500px;
+	left: 100px;
+	width: 150px;
+	height: 50px;
+}
