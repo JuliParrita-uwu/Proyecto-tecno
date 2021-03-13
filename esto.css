@@ -75,3 +75,12 @@ body{
 	width: 150px;
 	height: 50px;
 }
+.act4{
+	position: absolute;
+	background-image: url(mora.png);
+	border: #9A2EFE 3px double;
+	top: 500px;
+	left: 600px;
+	width: 150px;
+	height: 50px;
+}
