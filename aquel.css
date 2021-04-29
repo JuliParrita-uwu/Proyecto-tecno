@@ -36,6 +36,10 @@ body{
 	width: 109px;
 	height: 112px;
 }
+.let{
+	font-family: Forte;
+	font-size: 35px;
+}
 .act1{
 	position: absolute;
 	background-image: url(xddd.jpg);
@@ -43,6 +47,15 @@ body{
 	font-size: 30px;
 	top: 300px;
 	left: 100px;
+	width: 150px;
+	height: 50px;
+}
+.act2{
+	position: absolute;
+	background-image: url(xddd.jpg);
+	border: #9A2EFE 3px double;
+	top: 300px;
+	left: 600px;
 	width: 150px;
 	height: 50px;
 }
